@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\AIE\SoftwareDevelopmentFundamentals\code\WorkingWithFiles\WorkingWithFiles\obj\Debug\WorkingWithFiles.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\AIE\SoftwareDevelopmentFundamentals\code\WorkingWithFiles\WorkingWithFiles\obj\Debug\WorkingWithFiles.Form1.resources
+C:\Users\Admin\Documents\AIE\SoftwareDevelopmentFundamentals\code\WorkingWithFiles\WorkingWithFiles\obj\Debug\WorkingWithFiles.Properties.Resources.resources
+C:\Users\Admin\Documents\AIE\SoftwareDevelopmentFundamentals\code\WorkingWithFiles\WorkingWithFiles\obj\Debug\WorkingWithFiles.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\AIE\SoftwareDevelopmentFundamentals\code\WorkingWithFiles\WorkingWithFiles\bin\Debug\WorkingWithFiles.exe.config
+C:\Users\Admin\Documents\AIE\SoftwareDevelopmentFundamentals\code\WorkingWithFiles\WorkingWithFiles\bin\Debug\WorkingWithFiles.exe
+C:\Users\Admin\Documents\AIE\SoftwareDevelopmentFundamentals\code\WorkingWithFiles\WorkingWithFiles\bin\Debug\WorkingWithFiles.pdb
+C:\Users\Admin\Documents\AIE\SoftwareDevelopmentFundamentals\code\WorkingWithFiles\WorkingWithFiles\obj\Debug\WorkingWithFiles.exe
+C:\Users\Admin\Documents\AIE\SoftwareDevelopmentFundamentals\code\WorkingWithFiles\WorkingWithFiles\obj\Debug\WorkingWithFiles.pdb
